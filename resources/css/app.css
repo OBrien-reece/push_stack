@@ -1,0 +1,12 @@
+.lead {
+    font-family: "Times New Roman";
+}
+
+.quote {
+    float: right;
+}
+
+.quote_link {
+    text-decoration: none;
+    color: black;
+}
